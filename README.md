@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 <!---LeetCode Topics End-->
