@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
+| [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
