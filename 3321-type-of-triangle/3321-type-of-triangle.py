@@ -1,17 +1,12 @@
 class Solution(object):
     def triangleType(self, nums):
-        if len(nums)!=3:
+        a, b, c = sorted(nums)
+        if a + b <= c:
             return "none"
-        a=nums[0]
-        b=nums[1]
-        c=nums[2]
-        if a+b<=c or b+c<=a or a+c<=b:
-            return "none"
-        if a==b and b==c:
+        elif a == b and b == c:
             return "equilateral"
-        if a==b or b==c or a==c:
+        elif a == b or b == c or a == c:
             return "isosceles"
-        if a!=b and b!=c:
+        else:
             return "scalene"
-        return "none"
         
