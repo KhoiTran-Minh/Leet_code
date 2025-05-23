@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Simulation
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3639-zero-array-transformation-i) |
 ## Dynamic Programming
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -59,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
