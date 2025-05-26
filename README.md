@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,9 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Counting
+|  |
+| ------- |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 <!---LeetCode Topics End-->
