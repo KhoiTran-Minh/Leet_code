@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 ## String
 |  |
