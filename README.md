@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
+| [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3194-find-words-containing-character) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
 ## Greedy
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
