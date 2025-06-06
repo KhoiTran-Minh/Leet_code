@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
