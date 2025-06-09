@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
