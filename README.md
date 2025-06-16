@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
 | [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3194-find-words-containing-character) |
