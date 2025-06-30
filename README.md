@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
