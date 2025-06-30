@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Depth-First Search
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0386-lexicographical-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
