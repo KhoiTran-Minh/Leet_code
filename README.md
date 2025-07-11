@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0205-isomorphic-strings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
