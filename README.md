@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Simulation
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
