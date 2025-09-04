@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
