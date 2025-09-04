@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3201-distribute-candies-among-children-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Simulation
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -189,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
