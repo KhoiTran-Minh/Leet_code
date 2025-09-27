@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
+| [0830-largest-triangle-area](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0830-largest-triangle-area) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+| [0830-largest-triangle-area](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0830-largest-triangle-area) |
 | [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0196-delete-duplicate-emails) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
