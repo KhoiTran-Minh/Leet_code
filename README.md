@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0830-largest-triangle-area](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0830-largest-triangle-area) |
 | [0945-snakes-and-ladders](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0945-snakes-and-ladders) |
+| [1018-largest-perimeter-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1917-maximum-average-pass-ratio) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0594-longest-harmonious-subsequence) |
+| [1018-largest-perimeter-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/3321-type-of-triangle) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/KhoiTran-Minh/Leet_code/tree/master/0455-assign-cookies) |
+| [1018-largest-perimeter-triangle](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/KhoiTran-Minh/Leet_code/tree/master/1917-maximum-average-pass-ratio) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/KhoiTran-Minh/Leet_code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
